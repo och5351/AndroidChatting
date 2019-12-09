@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Management</string>
+    <string name="facebook_app_id">579423815936231</string>
+    <string name="fb_login_protocol_scheme">fb579423815936231</string>
+    <string name="kakao_app_key">0365b457567ee4fb8796631211d77ba5</string>
+    <string name="default_notification_channel_id">자만추 메세지</string>
+    <string name="default_notification_channel_name">Test</string>
+</resources>
